@@ -1,0 +1,29 @@
+[
+	{
+		"date": "2015-04-12",
+		"pollster": "1abvote",
+		"reference": "http://1abvote.ca/wp-content/uploads/2015/04/Data-Tables-Google-Survey-AB-Voting-intentions-1-Question-Poll-April-10-12-2015.pdf",
+		"sample-size": 714,
+		"responses": {
+			"ndp": 32,
+			"wildrose": 28,
+			"pc": 19,
+			"liberal": 12,
+			"alberta": 9
+		}
+	},
+	{
+		"date": "2015-04-09",
+		"pollster": "forum",
+		"reference": "http://poll.forumresearch.com/data/Alberta%20Horserace%20News%20Release%20%282015%2004%2009%29%20Forum%20Research.pdf",
+		"sample-size": 1546,
+		"responses": {
+			"wildrose": 30,
+			"ndp": 28,
+			"pc": 27,
+			"alberta": 2,
+			"liberal": 12,
+			"other": 2
+		}
+	}
+]
