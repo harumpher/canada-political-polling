@@ -14,6 +14,7 @@ Type: `String`
 The pollster who performed the survey. One of:
  - 1abvote: [1ABVote.ca](http://www.1abvote.ca)
  - forum: [Forum Research Inc.](http://www.forumresearch.com)
+
 ### responses
 Type: `Object`
 The question response categories and data. For example:
