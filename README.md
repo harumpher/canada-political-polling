@@ -1,13 +1,6 @@
 # Canadian Political Polling Data
 ## Overview
-A nice, accessibly formatted aggregation of Canadian Political Polling data. National level data can be found in the `national` folder, Provincial data in the `provincial` folder. Data is stored in JSON files. Each file contains an array of polls in chronological order:
-```json
-[
-	{}, // Poll 1
-	...
-	{}  // Poll N
-]
-```
+A nice, accessibly formatted aggregation of Canadian Political Polling data. National level data can be found in the `national` folder, Provincial data in the `provincial` folder. Data is stored in JSON files. Each file contains an array of polls in chronological order.
 ## General Metadata
 Each file contains poll data for a particular question. Different poll questions may share properties. Metadata for such general properties is available here.
 ### date
